@@ -33,9 +33,9 @@ body {
     opacity: 0.8;
 }
 
-#home-section .fas {
+#home-section .fa-check {
     color: #008ed6;
-    background: #ffffff;
+    background-color: #ffffff;
     padding: 4px;
     border-radius: 5px;
     font-size: 30px;
