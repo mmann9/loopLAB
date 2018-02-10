@@ -41,7 +41,7 @@ body {
     font-size: 30px;
 }
 
-#explore-section .fa-check {
+#explore-section .fa-check, #share-section .fa-check {
     color: #ffffff;
     background-color: #333333;
     padding: 4px;
