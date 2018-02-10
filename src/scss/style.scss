@@ -57,3 +57,14 @@ body {
     font-size: $icon-size;
   }
 }
+
+#create-section {
+
+  .fa-check {
+    color: $primary-color;
+    background-color: #ffffff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: $icon-size;
+  }
+}

@@ -48,3 +48,11 @@ body {
     border-radius: 5px;
     font-size: 30px;
 }
+
+#create-section .fa-check {
+    color: #008ed6;
+    background-color: #ffffff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+}
